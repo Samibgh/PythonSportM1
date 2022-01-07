@@ -1,0 +1,251 @@
+,id,name,type,date_of_birth,nationality,country_code,height,weight,jersey_number,gender,equipe,assists,blocks,field_goals,games_played,goals_conceded,goals_scored,red_cards,saves,seven_m_goals,steals,suspensions,technical_fouls,yellow_cards
+0,sr:player:279913,"N'Guessan, Timothey",LB,1992-09-18,France,FRA,196.0,95.0,19,male,FC BARCELONE,9,1,35,11,0,35,0,0,0,1,2,5,0
+1,sr:player:888314,"Dos Santos, Thiagus",LB,1989-01-25,Brazil,BRA,198.0,98.0,22,male,FC BARCELONE,8,13,5,19,0,5,0,0,0,20,4,1,3
+2,sr:player:898198,"Arino Bengoechea, Aitor",LW,1992-10-05,Spain,ESP,187.0,80.0,13,male,FC BARCELONE,7,0,43,14,0,43,0,0,0,12,1,1,0
+3,sr:player:898216,"Gomez Abello, Aleix",RW,1997-05-07,Spain,ESP,181.0,72.0,20,male,FC BARCELONE,5,0,56,19,0,94,0,0,38,9,0,1,1
+4,sr:player:902906,"Fernandez, Angel",LW,1988-09-16,Spain,ESP,192.0,91.0,32,male,FC BARCELONE,4,0,25,10,0,27,0,0,2,1,0,3,0
+5,sr:player:903576,"Mem, Dika",RB,1997-08-31,France,FRA,194.0,90.0,10,male,FC BARCELONE,27,1,92,19,0,92,0,0,0,11,4,11,4
+6,sr:player:1290100,"Cindric, Luka",CB,1993-07-05,Croatia,HRV,182.0,90.0,25,male,FC BARCELONE,40,0,50,18,0,51,0,0,1,5,0,9,0
+7,sr:player:1290254,"Fabregas, Ludovic",P,1996-07-01,France,FRA,198.0,103.0,72,male,FC BARCELONE,5,10,65,19,0,65,0,0,0,5,6,6,3
+8,sr:player:1290972,"Makuc, Domen",CB,2000-07-01,Slovenia,SVN,188.0,82.0,35,male,FC BARCELONE,14,0,24,16,0,24,0,0,0,0,4,3,0
+9,sr:player:1292968,"Janc, Blaz",RW,1996-11-20,Slovenia,SVN,185.0,85.0,18,male,FC BARCELONE,6,0,47,16,0,47,0,0,0,10,2,2,1
+10,sr:player:1293830,"Perez de Vargas Moreno, Gonzalo",G,1991-01-10,Spain,ESP,190.0,93.0,1,male,FC BARCELONE,7,0,6,19,331,6,0,155,0,5,0,0,0
+11,sr:player:1516061,"Frade, Luis",P,1998-09-11,Portugal,PRT,193.0,96.0,82,male,FC BARCELONE,5,2,30,17,0,30,0,0,0,2,3,3,3
+12,sr:player:2052243,"Langaro, Haniel",LB,1995-03-07,Brazil,BRA,198.0,104.0,37,male,FC BARCELONE,6,0,32,12,0,32,0,0,0,5,2,8,0
+13,sr:player:2062613,"Gonzales Perez, Jordi",G,1988-05-08,Spain,ESP,188.0,85.0,12,male,FC BARCELONE,0,0,0,1,3,0,0,2,0,0,0,0,0
+14,sr:player:2122264,"Parera Ibanez, Artur",P,2002-08-28,Spain,ESP,185.0,75.0,33,male,FC BARCELONE,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,sr:player:124185,"Horak, Pavel",LB,1982-11-28,Czech republic,CZE,198.0,113.0,28,male,THW Kiel,1,4,4,17,0,4,1,0,0,3,3,0,3
+16,sr:player:124630,"Duvnjak, Domagoj",CB,1988-06-01,Croatia,HRV,198.0,102.0,4,male,THW Kiel,33,2,50,17,0,50,0,0,0,7,3,5,2
+17,sr:player:124865,"Quenstedt, Dario",G,1989-09-22,Germany,DEU,193.0,101.0,21,male,THW Kiel,2,0,2,16,220,2,0,87,0,0,0,1,0
+18,sr:player:125206,"Weinhold, Steffen",RB,1986-07-19,Germany,DEU,191.0,100.0,13,male,THW Kiel,12,1,33,16,0,33,0,0,0,1,8,3,1
+19,sr:player:125232,"Wiencek, Patrick",P,1989-03-22,Germany,DEU,200.0,117.0,17,male,THW Kiel,4,11,40,16,0,40,0,0,0,2,12,4,5
+20,sr:player:176857,"Pekeler, Hendrik",P,1991-07-02,Germany,DEU,203.0,102.0,61,male,THW Kiel,5,12,41,16,0,41,0,0,0,0,10,5,3
+21,sr:player:259939,"Landin Jacobsen, Niklas",G,1988-12-19,Denmark,DNK,201.0,102.0,1,male,THW Kiel,2,0,1,15,258,1,0,108,0,2,1,0,1
+22,sr:player:261707,"Ekberg, Niclas",RW,1988-12-23,Sweden,SWE,191.0,91.0,18,male,THW Kiel,6,0,42,16,0,84,0,0,42,6,1,2,1
+23,sr:player:345575,"Dahmke, Rune",LW,1993-04-10,Germany,DEU,189.0,85.0,23,male,THW Kiel,2,0,15,16,0,15,0,0,0,0,0,1,1
+24,sr:player:604492,"Reinkind, Harald",RB,1992-08-17,Norway,NOR,197.0,100.0,6,male,THW Kiel,33,0,64,17,0,64,0,0,0,2,4,3,0
+25,sr:player:1004021,"Sagosen, Sander",LB,1995-09-14,Norway,NOR,195.0,102.0,5,male,THW Kiel,47,5,74,15,0,74,1,0,0,5,8,2,1
+26,sr:player:1259966,"Zarabec, Miha",CB,1991-10-12,Slovenia,SVN,178.0,79.0,24,male,THW Kiel,20,0,29,15,0,30,0,0,1,0,0,4,0
+27,sr:player:1387507,"Jacobsen, Magnus Landin",LW,1995-08-20,Denmark,DNK,197.0,92.0,7,male,THW Kiel,1,0,30,17,0,32,0,0,2,2,3,1,0
+28,sr:player:1854056,"Ehrig, Sven",RW,2000-06-26,Germany,DEU,197.0,94.0,3,male,THW Kiel,1,0,16,14,0,16,0,0,0,3,1,2,0
+29,sr:player:2068829,"Wager, Philipp",LW,2000-02-14,Germany,DEU,,,22,male,THW Kiel,0,0,3,7,0,3,0,0,0,0,0,1,0
+30,sr:player:2070651,"Saggau, Philip",G,2002-01-05,Germany,DEU,189.0,89.0,16,male,THW Kiel,0,0,0,2,6,0,0,3,0,0,0,0,0
+31,sr:player:2110916,"Ciudad Benitez, Leon",P,2002-06-04,Germany,DEU,196.0,112.0,20,male,THW Kiel,0,0,0,5,0,0,0,0,0,0,1,0,0
+32,sr:player:119012,"Bult, Mark",RB,1982-09-07,Netherlands,NLD,200.0,101.0,6,male,SG Flensburg-Handewitt,0,0,0,0,0,0,0,0,0,0,0,0,1
+33,sr:player:124921,"Svan, Lasse",RW,1983-08-31,Denmark,DNK,185.0,85.0,11,male,SG Flensburg-Handewitt,1,0,26,12,0,26,0,0,0,0,3,2,0
+34,sr:player:259941,"Steinhauser, Marius",RW,1993-02-06,Germany,DEU,187.0,85.0,19,male,SG Flensburg-Handewitt,1,0,20,12,0,24,0,0,4,2,0,1,0
+35,sr:player:345543,"Wanne, Hampus",LW,1993-12-10,Sweden,SWE,184.0,84.0,14,male,SG Flensburg-Handewitt,2,0,26,12,0,49,0,0,23,1,2,3,2
+36,sr:player:345559,"Gottfridsson, Jim",CB,1992-09-02,Sweden,SWE,190.0,93.0,24,male,SG Flensburg-Handewitt,42,0,46,13,0,46,0,0,0,3,3,12,1
+37,sr:player:592178,"Moller, Kevin",G,1989-06-20,Denmark,DNK,200.0,103.0,20,male,SG Flensburg-Handewitt,0,0,3,20,220,3,0,122,0,0,0,4,0
+38,sr:player:604490,"Larsen, Mads Mensah",CB,1991-08-12,Denmark,DNK,188.0,105.0,22,male,SG Flensburg-Handewitt,15,2,23,13,0,23,0,0,0,2,1,4,0
+39,sr:player:869388,"Semper, Franz",RB,1997-07-05,Germany,DEU,191.0,102.0,32,male,SG Flensburg-Handewitt,5,0,23,7,0,23,0,0,0,1,1,2,0
+40,sr:player:876390,"Golla, Johannes",P,1997-11-05,Germany,DEU,195.0,112.0,4,male,SG Flensburg-Handewitt,3,2,24,6,0,24,1,0,0,3,7,2,1
+41,sr:player:1028491,"Buric, Benjamin",G,1990-11-20,Bosnia & herzegovina,BIH,196.0,102.0,1,male,SG Flensburg-Handewitt,3,0,0,13,180,0,0,94,0,0,0,0,0
+42,sr:player:1262422,"Rod, Magnus Abelvik",RB,1997-07-07,Norway,NOR,204.0,108.0,77,male,SG Flensburg-Handewitt,22,7,37,12,0,37,1,0,0,6,8,4,2
+43,sr:player:1290348,"Hald Jensen, Simon",P,1994-09-28,Denmark,DNK,203.0,120.0,5,male,SG Flensburg-Handewitt,0,8,8,13,0,8,0,0,0,1,14,1,4
+44,sr:player:1387351,"Sogard, Goran",CB,1994-04-26,Norway,NOR,193.0,96.0,23,male,SG Flensburg-Handewitt,19,1,60,13,0,60,1,0,0,6,6,8,1
+45,sr:player:1397085,"Moller, Lasse Kjaer",LB,1996-06-11,Denmark,DNK,199.0,100.0,64,male,SG Flensburg-Handewitt,9,0,14,5,0,14,0,0,0,3,0,2,0
+46,sr:player:125117,"Palmarsson, Aron",LB,1990-07-19,Iceland,ISL,193.0,98.0,4,male,Aalborg Haandbold,58,1,57,17,0,57,0,0,0,5,4,9,4
+47,sr:player:903520,"Mollgaard, Henrik",CB,1985-01-02,Denmark,DNK,197.0,102.0,21,male,Aalborg Haandbold,49,13,57,19,0,57,1,0,0,4,11,14,4
+48,sr:player:904750,"Claar, Felix",CB,1997-01-05,Sweden,SWE,192.0,97.0,7,male,Aalborg Haandbold,60,3,52,18,0,52,0,0,0,3,5,9,3
+49,sr:player:904770,"Aggefors, Mikael",G,1985-01-20,Sweden,SWE,191.0,92.0,16,male,Aalborg Haandbold,7,0,1,19,317,1,0,142,0,0,1,1,0
+50,sr:player:1290336,"Juul-Lassen, Buster Engelbrecht",LW,1993-03-31,Denmark,DNK,196.0,95.0,23,male,Aalborg Haandbold,4,0,17,15,0,46,0,0,29,0,1,2,0
+51,sr:player:1290344,"Antonsen, Rene",P,1992-03-04,Denmark,DNK,196.0,110.0,22,male,Aalborg Haandbold,4,4,25,16,0,25,0,0,0,0,9,2,9
+52,sr:player:1290396,"Jensen, Andreas Holst",LB,1994-12-01,Denmark,DNK,202.0,104.0,15,male,Aalborg Haandbold,3,0,10,19,0,10,0,0,0,0,0,0,0
+53,sr:player:1290404,"Barthold, Sebastian",LW,1991-08-27,Norway,NOR,184.0,88.0,6,male,Aalborg Haandbold,6,0,40,18,0,62,0,0,22,3,3,3,2
+54,sr:player:1298982,"Gade, Simon",G,1997-01-03,Denmark,DNK,194.0,90.0,1,male,Aalborg Haandbold,6,0,1,19,263,1,0,97,0,0,0,0,0
+55,sr:player:1588362,"Sandell, Lukas",RB,1997-02-03,Sweden,SWE,191.0,84.0,11,male,Aalborg Haandbold,31,0,66,19,0,66,0,0,0,1,3,13,1
+56,sr:player:1592064,"Jakobsen, Benjamin",P,1991-09-09,Denmark,DNK,191.0,116.0,2,male,Aalborg Haandbold,1,1,17,19,0,17,0,0,0,1,3,2,1
+57,sr:player:1872198,"Henneberg, Sebastian",LB,1994-02-18,Denmark,DNK,197.0,101.0,9,male,Aalborg Haandbold,0,0,0,1,0,0,0,0,0,0,0,0,0
+58,sr:player:1873586,"Klove, Victor",LB,2002-06-27,Denmark,DNK,197.0,93.0,5,male,Aalborg Haandbold,0,0,0,3,0,0,0,0,0,0,0,0,0
+59,sr:player:2062427,"Samuelsson, Jonas",RW,1991-04-10,Sweden,SWE,193.0,87.0,3,male,Aalborg Haandbold,4,1,33,16,0,35,0,0,2,3,4,0,0
+60,sr:player:2062449,"Hermansen, Valdemar Schiodt",P,2002-07-20,Denmark,DNK,192.0,120.0,14,male,Aalborg Haandbold,0,0,0,3,0,0,0,0,0,0,0,0,0
+61,sr:player:2062627,"Andersen, Magnus Dahl",LW,2002-08-25,Denmark,DNK,197.0,87.0,27,male,Aalborg Haandbold,0,0,0,5,0,1,0,0,1,1,0,0,0
+62,sr:player:2063119,"Christensen, Nikolaj Laeso Dueholm",LB,1996-11-15,Denmark,DNK,196.0,99.0,13,male,Aalborg Haandbold,28,6,66,18,0,66,0,0,0,4,3,12,0
+63,sr:player:904886,"Hedberg, Christofer",RW,1992-08-08,Sweden,SWE,190.0,88.0,4,male,Elverum Handball,0,0,21,15,0,21,0,0,0,2,2,4,1
+64,sr:player:906548,"Fries, Thorsten",G,1993-01-22,Denmark,DNK,196.0,94.0,16,male,Elverum Handball,0,0,0,15,306,0,0,99,0,0,0,0,0
+65,sr:player:1290124,"Imsgard, Emil Kheri",G,1998-03-06,Norway,NOR,197.0,98.0,12,male,Elverum Handball,0,0,0,15,217,0,0,62,0,0,0,0,0
+66,sr:player:1304404,"Mathe, Dominik",RB,1999-04-01,Hungary,HUN,197.0,104.0,23,male,Elverum Handball,36,1,59,15,0,59,0,0,0,1,3,9,0
+67,sr:player:1516787,"Pettersen, Simen Holand",LB,1998-04-08,Norway,NOR,188.0,93.0,9,male,Elverum Handball,14,0,35,15,0,35,0,0,0,1,3,1,0
+68,sr:player:1560150,"Grondahl, Tobias",CB,2001-01-22,Norway,NOR,183.0,83.0,15,male,Elverum Handball,5,0,5,15,0,28,0,0,23,0,0,2,0
+69,sr:player:1560164,"Larsen, Kristian Hubert",P,2000-03-22,Norway,NOR,199.0,103.0,5,male,Elverum Handball,0,0,1,14,0,1,0,0,0,0,0,0,0
+70,sr:player:1588366,"Langaas, Endre",P,1991-10-05,Norway,NOR,184.0,99.0,20,male,Elverum Handball,3,0,36,15,0,36,0,0,0,0,2,3,4
+71,sr:player:1872214,"Solstad, Thomas Alfred",P,1997-02-26,Norway,NOR,194.0,109.0,44,male,Elverum Handball,3,5,58,15,0,58,1,0,0,2,10,3,2
+72,sr:player:2063107,"Fingren, Johan Niclas",LB,1995-11-19,Sweden,SWE,197.0,99.0,14,male,Elverum Handball,31,5,26,15,0,26,1,0,0,3,21,5,6
+73,sr:player:1290922,"Mlakar, Ziga",RB,1990-05-16,Slovenia,SVN,192.0,99.0,55,male,RK Celje,6,2,47,13,0,47,0,0,0,2,1,10,1
+74,sr:player:1290952,"Razgor, David",LW,1989-07-13,Slovenia,SVN,180.0,78.0,9,male,RK Celje,25,0,11,12,0,19,0,0,8,0,0,8,1
+75,sr:player:1290976,"Kodrin, Tilen",LW,1994-05-14,Slovenia,SVN,192.0,88.0,25,male,RK Celje,0,1,37,14,0,37,0,0,0,3,3,5,2
+76,sr:player:1290988,"Marguc, Gal",RW,1996-11-16,Slovenia,SVN,179.0,75.0,11,male,RK Celje,1,0,17,13,0,28,0,0,11,3,1,1,0
+77,sr:player:1291484,"Mazej, Tadej",LW,1998-07-31,Slovenia,SVN,190.0,90.0,6,male,RK Celje,1,0,14,13,0,14,0,0,0,6,4,1,0
+78,sr:player:1291492,"Vujovic, Miljan",G,2000-08-27,Slovenia,SVN,198.0,105.0,16,male,RK Celje,3,0,0,15,344,0,0,110,0,1,0,0,0
+79,sr:player:1293388,"Poteko, Vid",P,1991-04-05,Slovenia,SVN,194.0,107.0,15,male,RK Celje,0,4,3,12,0,3,1,0,0,2,7,0,5
+80,sr:player:1339704,"Vlah, Aleks",CB,1997-07-22,Slovenia,SVN,192.0,90.0,88,male,RK Celje,3,0,10,6,0,10,0,0,0,1,0,2,0
+81,sr:player:1591784,"Cokan, Tim",RW,2001-06-07,Slovenia,SVN,191.0,81.0,10,male,RK Celje,0,0,1,3,0,1,0,0,0,0,0,0,0
+82,sr:player:1872220,"Gabersek, Gal",G,2001-08-23,Slovenia,SVN,200.0,87.0,99,male,RK Celje,0,0,0,7,8,0,0,1,0,0,0,0,0
+83,sr:player:2062625,"Janc, Mitja",CB,2003-04-05,Slovenia,SVN,182.0,85.0,18,male,RK Celje,0,0,0,1,0,0,0,0,0,0,0,0,0
+84,sr:player:2069213,"Cepic, Radojica",CB,2002-07-29,Montenegro,MNE,194.0,89.0,22,male,RK Celje,3,0,8,9,0,8,0,0,0,1,1,0,0
+85,sr:player:2069215,"Dragasevic, Arsenije",LB,2002-07-18,Montenegro,MNE,202.0,95.0,8,male,RK Celje,18,0,19,9,0,19,0,0,0,0,2,12,0
+86,sr:player:356242,"Toft Hansen, Henrik",P,1986-12-18,Denmark,DNK,200.0,102.0,15,male,Paris Saint-Germain Handball,2,0,18,17,0,18,0,0,0,1,2,0,2
+87,sr:player:803166,"Gerard, Vincent",G,1986-12-16,France,FRA,189.0,104.0,1,male,Paris Saint-Germain Handball,4,0,2,17,346,2,0,130,0,0,0,0,0
+88,sr:player:898258,"Syprzak, Kamil",P,1991-07-23,Poland,POL,206.0,120.0,21,male,Paris Saint-Germain Handball,1,1,52,16,0,52,0,0,0,0,2,2,0
+89,sr:player:898536,"Sole Sala, Ferran",RW,1992-08-25,Spain,ESP,192.0,88.0,14,male,Paris Saint-Germain Handball,3,0,28,17,0,36,0,0,8,3,0,2,0
+90,sr:player:899508,"Genty, Yann",G,1981-12-26,France,FRA,185.0,89.0,12,male,Paris Saint-Germain Handball,2,0,1,16,139,1,0,49,0,0,0,0,0
+91,sr:player:903360,"Hansen, Mikkel",LB,1987-10-22,Denmark,DNK,192.0,93.0,24,male,Paris Saint-Germain Handball,35,0,37,15,0,88,0,0,51,1,2,2,0
+92,sr:player:903364,"Karabatic, Luka",P,1988-04-19,France,FRA,202.0,90.0,22,male,Paris Saint-Germain Handball,4,6,34,13,0,34,0,0,0,2,6,1,3
+93,sr:player:903366,"Karabatic, Nikola",CB,1984-04-11,France,FRA,196.0,102.0,44,male,Paris Saint-Germain Handball,13,0,11,5,0,11,0,0,0,0,1,2,0
+94,sr:player:903578,"Grebille, Mathieu",LW,1991-10-06,France,FRA,198.0,94.0,20,male,Paris Saint-Germain Handball,5,0,15,16,0,15,0,0,0,2,3,1,0
+95,sr:player:903670,"Remili, Nedim",RB,1995-07-18,France,FRA,195.0,94.0,18,male,Paris Saint-Germain Handball,62,1,70,17,0,71,0,0,1,2,6,4,1
+96,sr:player:1290098,"Kristopans, Dainis",RB,1990-09-27,Latvia,LVA,214.0,136.0,10,male,Paris Saint-Germain Handball,34,12,35,17,0,35,0,0,0,2,7,3,4
+97,sr:player:1290582,"Kounkoud, Benoit",RW,1997-02-19,France,FRA,188.0,78.0,11,male,Paris Saint-Germain Handball,2,0,36,17,0,36,0,0,0,3,8,0,0
+98,sr:player:1290584,"Keita, Adama",LW,1997-06-05,France,FRA,183.0,77.0,9,male,Paris Saint-Germain Handball,0,0,9,16,0,9,0,0,0,0,0,0,1
+99,sr:player:1290626,"N'Tanzi, Sadou",CB,2000-01-07,France,FRA,183.0,71.0,7,male,Paris Saint-Germain Handball,2,0,3,4,0,3,0,0,0,0,0,0,0
+100,sr:player:1341244,"Steins, Luc",CB,1995-03-22,Netherlands,NLD,172.0,76.0,6,male,Paris Saint-Germain Handball,37,0,41,11,0,41,0,0,0,3,1,4,0
+101,sr:player:1515831,"Prandi, Elohim",LB,1998-08-24,France,FRA,193.0,96.0,71,male,Paris Saint-Germain Handball,34,0,36,16,0,36,0,0,0,2,3,6,2
+102,sr:player:2062459,"Villain, Leo",G,2002-11-06,France,FRA,202.0,99.0,45,male,Paris Saint-Germain Handball,0,0,0,1,5,0,0,0,0,0,0,0,0
+103,sr:player:2062589,"Clay, Baptiste",CB,2002-08-14,France,FRA,191.0,85.0,4,male,Paris Saint-Germain Handball,0,0,0,2,0,0,0,0,0,0,0,0,0
+104,sr:player:119029,"Mahe, Kentin",CB,1991-05-22,France,FRA,186.0,90.0,35,male,Veszprem KC,14,0,24,12,0,27,0,0,3,2,3,3,0
+105,sr:player:259797,"Nilsson, Andreas",P,1990-04-12,Sweden,SWE,197.0,120.0,18,male,Veszprem KC,1,5,63,15,0,63,0,0,0,4,3,2,1
+106,sr:player:345581,"Lauge, Rasmus",CB,1991-06-20,Denmark,DNK,195.0,102.0,25,male,Veszprem KC,11,0,18,8,0,22,0,0,4,2,3,4,1
+107,sr:player:604602,"Nenadic, Petar",CB,1986-06-28,Serbia,SRB,198.0,95.0,13,male,Veszprem KC,56,0,66,15,0,73,0,0,7,2,1,8,0
+108,sr:player:797318,"Blagotinsek, Blaz",P,1994-01-17,Slovenia,SVN,203.0,117.0,31,male,Veszprem KC,1,16,7,15,0,7,1,0,0,5,11,0,4
+109,sr:player:803160,"Strlek, Manuel",LW,1988-12-01,Croatia,HRV,182.0,87.0,26,male,Veszprem KC,4,0,24,13,0,24,0,0,0,4,0,0,2
+110,sr:player:803750,"Manaskov, Dejan",LW,1992-08-26,North macedonia,MKD,191.0,78.0,2,male,Veszprem KC,2,0,35,15,0,38,0,0,3,4,2,4,0
+111,sr:player:887764,"Ligetvari, Patrik",LB,1996-02-13,Hungary,HUN,201.0,104.0,23,male,Veszprem KC,1,4,0,13,0,0,0,0,0,3,6,1,0
+112,sr:player:888776,"Marguc, Gasper",RW,1990-08-20,Slovenia,SVN,180.0,85.0,24,male,Veszprem KC,5,0,42,16,0,60,0,0,18,6,1,1,0
+113,sr:player:888788,"Lekai, Mate",CB,1988-06-16,Hungary,HUN,190.0,89.0,66,male,Veszprem KC,23,0,21,11,0,21,0,0,0,1,0,8,0
+114,sr:player:903002,"Cupara, Vladimir",G,1994-02-19,Serbia,SRB,198.0,108.0,16,male,Veszprem KC,3,0,1,17,260,1,0,106,0,3,0,2,0
+115,sr:player:1290092,"Maqueda Peno, Jorge",RB,1988-02-06,Spain,ESP,195.0,102.0,15,male,Veszprem KC,13,2,34,13,0,36,0,0,2,5,3,9,3
+116,sr:player:1290598,"Corrales Rodal, Rodrigo",G,1991-01-24,Spain,ESP,202.0,99.0,12,male,Veszprem KC,2,0,0,14,227,0,0,105,0,3,0,0,0
+117,sr:player:1872164,"Fathy Omar, Yahia Khaled",RB,1997-09-09,Egypt,EGY,197.0,96.0,5,male,Veszprem KC,23,1,49,16,0,56,0,0,7,12,6,6,3
+118,sr:player:2132554,"Lukacs, Peter",CB,2002-07-30,Hungary,HUN,190.0,75.0,27,male,Veszprem KC,1,0,0,2,0,0,0,0,0,0,0,2,0
+119,sr:player:345565,"Radivojevic, Bogdan",RW,1993-03-02,Serbia,SRB,192.0,83.0,17,male,SC Szeged,4,0,34,11,0,57,0,0,23,2,1,1,0
+120,sr:player:346102,"Mackovsek, Borut",LB,1992-09-11,Slovenia,SVN,203.0,95.0,51,male,SC Szeged,5,7,13,10,0,13,0,0,0,3,2,2,2
+121,sr:player:356234,"Tonnesen, Kent Robin",RB,1991-06-05,Norway,NOR,194.0,100.0,5,male,SC Szeged,9,1,14,10,0,14,0,0,0,0,1,1,0
+122,sr:player:797320,"Gaber, Matej",P,1991-07-22,Slovenia,SVN,198.0,110.0,22,male,SC Szeged,1,10,12,11,0,12,0,0,0,2,2,0,3
+123,sr:player:797330,"Bombac, Dean",CB,1989-04-04,Slovenia,SVN,190.0,93.0,44,male,SC Szeged,33,0,31,11,0,31,0,0,0,4,2,5,0
+124,sr:player:887290,"Bodo, Richard",LB,1993-03-13,Hungary,HUN,203.0,110.0,9,male,SC Szeged,19,0,39,11,0,39,0,0,0,1,2,2,3
+125,sr:player:887482,"Rosta, Miklos",P,1999-02-14,Hungary,HUN,200.0,120.0,45,male,SC Szeged,6,2,9,13,0,9,0,0,0,0,2,0,0
+126,sr:player:887698,"Banhidi, Bence",P,1995-02-09,Hungary,HUN,202.0,127.0,27,male,SC Szeged,0,5,44,9,0,44,0,0,0,2,7,1,4
+127,sr:player:888758,"Mikler, Roland",G,1984-09-20,Hungary,HUN,190.0,100.0,16,male,SC Szeged,0,0,0,13,252,0,0,89,0,1,0,0,0
+128,sr:player:888760,"Alilovic, Mirko",G,1985-09-15,Croatia,HRV,200.0,110.0,32,male,SC Szeged,0,0,1,12,122,1,0,46,0,0,0,0,0
+129,sr:player:1290606,"Stepancic, Luka",RB,1990-11-20,Croatia,HRV,203.0,105.0,7,male,SC Szeged,0,0,4,1,0,4,0,0,0,1,0,0,0
+130,sr:player:1291074,"Sostaric, Mario",RW,1992-11-25,Slovenia,SVN,193.0,87.0,24,male,SC Szeged,4,0,11,9,0,28,0,0,17,3,4,1,1
+131,sr:player:1304344,"Martins, Miguel",CB,1997-11-04,Portugal,PRT,192.0,83.0,10,male,SC Szeged,51,0,45,14,0,45,0,0,0,3,5,8,2
+132,sr:player:1339714,"Henigman, Nik",LB,1995-12-04,Slovenia,SVN,201.0,107.0,15,male,SC Szeged,0,2,5,8,0,5,1,0,0,2,5,1,1
+133,sr:player:1560120,"Blonz, Alexander",LW,2000-04-17,Norway,NOR,189.0,84.0,71,male,SC Szeged,4,0,41,12,0,50,0,0,9,1,0,1,0
+134,sr:player:2062897,"Krivokapic, Luka",G,2002-02-07,Serbia,SRB,195.0,85.0,77,male,SC Szeged,0,0,0,1,0,0,0,1,0,0,0,0,0
+135,sr:player:2062983,"Rea, Barnabas",CB,2002-11-15,Hungary,HUN,182.0,85.0,4,male,SC Szeged,1,0,0,5,0,0,0,0,0,0,0,0,0
+136,sr:player:2068907,"Kecskes, Daniel",RW,2001-12-01,Hungary,HUN,187.0,72.0,13,male,SC Szeged,0,0,2,6,0,2,0,0,0,0,0,0,0
+137,sr:player:2099456,"Nagy, Tibor",,2001-01-13,Hungary,HUN,,,46,male,SC Szeged,0,0,0,1,0,0,0,0,0,0,0,0,0
+138,sr:player:887758,"Kasparek, Stanislav",RB,1996-06-11,Czech republic,CZE,202.0,90.0,37,male,Meshkov Brest,20,1,31,10,0,31,0,0,0,3,3,6,0
+139,sr:player:888508,"Vranjes, Vladimir",P,1988-12-14,Bosnia & herzegovina,BIH,200.0,107.0,77,male,Meshkov Brest,1,11,40,16,0,40,0,0,0,0,10,5,6
+140,sr:player:1289996,"Santalov, Dmitrii",LB,1996-04-07,Russian federation,RUS,196.0,96.0,3,male,Meshkov Brest,10,1,16,12,0,16,0,0,0,0,2,2,1
+141,sr:player:1290944,"Malus, Jaka",LB,1996-06-15,Slovenia,SVN,190.0,90.0,66,male,Meshkov Brest,29,0,32,17,0,32,0,0,0,2,1,11,0
+142,sr:player:1291014,"Skube, Stas",CB,1989-11-15,Slovenia,SVN,179.0,85.0,20,male,Meshkov Brest,93,0,53,17,0,54,0,0,1,6,2,18,1
+143,sr:player:1291398,"Paczkowski, Pawel",RB,1993-06-14,Poland,POL,195.0,93.0,33,male,Meshkov Brest,19,2,17,15,0,17,0,0,0,3,5,6,0
+144,sr:player:1293408,"Yurynok, Andrei",LW,1996-09-21,Belarus,BLR,196.0,95.0,14,male,Meshkov Brest,1,1,32,15,0,32,0,0,0,2,9,1,0
+145,sr:player:1293472,"Shumak, Viachaslau",P,1988-12-22,Belarus,BLR,202.0,115.0,22,male,Meshkov Brest,2,11,36,17,0,36,0,0,0,3,17,1,4
+146,sr:player:1293506,"Matskevich, Ivan",G,1991-05-08,Belarus,BLR,190.0,110.0,12,male,Meshkov Brest,0,0,0,15,122,0,0,29,0,0,0,0,0
+147,sr:player:1293512,"Budzeika, Yahor",RB,2000-05-01,Belarus,BLR,195.0,88.0,4,male,Meshkov Brest,0,0,2,10,0,2,0,0,0,0,0,0,0
+148,sr:player:1293638,"Selviasiuk, Artsiom",P,1992-12-08,Belarus,BLR,192.0,95.0,42,male,Meshkov Brest,0,4,13,16,0,13,0,0,0,0,5,0,1
+149,sr:player:1304470,"Vailupau, Mikita",RW,1995-07-30,Belarus,BLR,186.0,87.0,55,male,Meshkov Brest,3,0,54,17,0,92,0,0,38,1,1,1,0
+150,sr:player:1386493,"Baranau, Maksim",RW,1988-04-11,Belarus,BLR,188.0,89.0,24,male,Meshkov Brest,1,0,10,15,0,20,0,0,10,0,0,0,0
+151,sr:player:1872160,"Usik, Ilya",G,1998-08-13,Belarus,BLR,196.0,87.0,21,male,Meshkov Brest,0,0,0,5,19,0,0,5,0,0,0,0,0
+152,sr:player:1872190,"Tamashuk, Ilya",LW,2000-06-28,Belarus,BLR,185.0,85.0,76,male,Meshkov Brest,0,0,0,4,0,1,0,0,1,0,0,0,0
+153,sr:player:1878808,"Viarheichyk, Danila",RB,2000-05-27,Belarus,BLR,190.0,90.0,25,male,Meshkov Brest,0,0,0,3,0,1,0,0,1,0,0,0,0
+154,sr:player:1878842,"Silko, Valiantsin",CB,2000-01-20,Belarus,BLR,180.0,80.0,98,male,Meshkov Brest,4,0,1,7,0,1,0,0,0,0,0,0,0
+155,sr:player:221770,"Ristovski, Borko",G,1982-11-02,North macedonia,MKD,190.0,115.0,1,male,HC Vardar 1961,1,0,5,9,215,5,0,69,0,0,0,2,0
+156,sr:player:604608,"Nyokas, Olivier",LB,1986-06-28,France,FRA,188.0,86.0,6,male,HC Vardar 1961,1,0,15,7,0,15,0,0,0,1,4,7,1
+157,sr:player:903586,"Georgievski, Goce",RW,1987-02-12,North macedonia,MKD,185.0,83.0,9,male,HC Vardar 1961,2,0,22,13,0,22,0,0,0,0,1,2,0
+158,sr:player:1104105,"Taleski, Filip",LB,1996-03-28,North macedonia,MKD,200.0,86.0,28,male,HC Vardar 1961,5,2,9,12,0,9,0,0,0,0,2,4,0
+159,sr:player:1290026,"Dibirov, Timur",LW,1983-07-30,Russian federation,RUS,180.0,74.0,31,male,HC Vardar 1961,10,0,56,13,0,68,0,0,12,4,2,6,1
+160,sr:player:1290074,"Stoilov, Stojanche",P,1987-04-30,North macedonia,MKD,191.0,110.0,5,male,HC Vardar 1961,8,1,44,13,0,44,0,0,0,0,0,4,3
+161,sr:player:1315996,"Gadza, Ante",CB,1992-08-26,Croatia,HRV,195.0,95.0,24,male,HC Vardar 1961,18,0,28,13,0,28,0,0,0,0,0,14,0
+162,sr:player:1382319,"Walczak, Patryk",P,1992-07-29,Poland,POL,198.0,102.0,7,male,HC Vardar 1961,1,1,16,13,0,16,0,0,0,0,3,1,0
+163,sr:player:1588212,"Jagurinovski, Tomislav",RW,1998-08-19,North macedonia,MKD,188.0,81.0,4,male,HC Vardar 1961,0,0,1,5,0,1,0,0,0,0,0,0,0
+164,sr:player:1591832,"Mishevski, Marko",CB,1999-08-23,North macedonia,MKD,199.0,96.0,97,male,HC Vardar 1961,0,0,0,4,0,0,0,0,0,0,0,0,0
+165,sr:player:1633246,"Atanasovski, Stefan",P,1999-09-08,North macedonia,MKD,207.0,113.0,55,male,HC Vardar 1961,0,0,0,1,0,0,0,0,0,0,0,0,0
+166,sr:player:1877342,"Karapalevski, Martin",CB,2000-03-11,North macedonia,MKD,178.0,82.0,11,male,HC Vardar 1961,0,0,0,4,0,0,0,0,0,0,0,0,0
+167,sr:player:125213,"Wolff, Andreas",G,1991-03-03,Germany,DEU,198.0,110.0,33,male,KS Vive Kielce,2,0,0,16,374,0,0,137,0,0,0,0,0
+168,sr:player:355896,"Gebala, Tomasz",LB,1995-11-23,Poland,POL,212.0,120.0,48,male,KS Vive Kielce,6,7,13,16,0,13,0,0,0,1,15,0,4
+169,sr:player:898314,"Dujshebaev Dobichevaeva, Daniel",CB,1997-07-04,Spain,ESP,198.0,98.0,44,male,KS Vive Kielce,18,4,22,14,0,22,0,0,0,2,6,1,3
+170,sr:player:902594,"Tournat, Nicolas",P,1994-04-05,France,FRA,202.0,110.0,11,male,KS Vive Kielce,1,4,44,16,0,44,0,0,0,1,7,6,2
+171,sr:player:1261778,"Sicko, Szymon",LB,1997-08-20,Poland,POL,200.0,106.0,9,male,KS Vive Kielce,7,1,31,16,0,31,0,0,0,2,3,5,0
+172,sr:player:1290094,"Karacic, Igor",CB,1988-11-02,Croatia,HRV,191.0,91.0,18,male,KS Vive Kielce,23,0,50,15,0,53,0,0,3,0,0,6,1
+173,sr:player:1290594,"Nahi, Dylan",LW,1999-11-30,France,FRA,190.0,90.0,99,male,KS Vive Kielce,0,2,66,14,0,66,2,0,0,3,7,2,1
+174,sr:player:1290980,"Vujovic, Branko",RB,1998-04-20,Montenegro,MNE,197.0,94.0,2,male,KS Vive Kielce,15,5,21,16,0,25,0,0,4,0,1,4,1
+175,sr:player:1292990,"Dujshebaev Dovichebaeva, Alex",RB,1992-12-17,Spain,ESP,188.0,90.0,10,male,KS Vive Kielce,73,1,80,16,0,88,0,0,8,3,5,6,0
+176,sr:player:1304432,"Kulesh, Uladzislau",LB,1996-05-28,Belarus,BLR,206.0,108.0,22,male,KS Vive Kielce,20,0,38,13,0,38,0,0,0,0,1,2,0
+177,sr:player:1340286,"Karalek, Artsem",P,1996-02-20,Belarus,BLR,197.0,110.0,50,male,KS Vive Kielce,7,7,55,16,0,56,0,0,1,0,6,3,3
+178,sr:player:1382257,"Moryto, Arkadiusz",RW,1997-08-31,Poland,POL,180.0,76.0,23,male,KS Vive Kielce,1,0,31,16,0,50,1,0,19,1,4,1,0
+179,sr:player:1382551,"Kornecki, Mateusz",G,1994-06-05,Poland,POL,194.0,92.0,1,male,KS Vive Kielce,1,0,0,13,87,0,0,33,0,0,0,0,0
+180,sr:player:1397301,"Gudjonsson, Sigvaldi Bjorn",RW,1994-07-04,Iceland,ISL,191.0,86.0,84,male,KS Vive Kielce,0,0,22,13,0,26,0,0,4,0,1,0,0
+181,sr:player:1515725,"Thrastarson, Haukur",CB,2001-04-14,Iceland,ISL,193.0,95.0,25,male,KS Vive Kielce,1,0,1,3,0,1,0,0,0,1,0,0,0
+182,sr:player:1560236,"Olejniczak, Michal",CB,2001-01-31,Poland,POL,195.0,97.0,5,male,KS Vive Kielce,1,0,13,11,0,13,0,0,0,0,4,4,1
+183,sr:player:2007707,"Surgiel, Cezary",LW,2002-09-18,Poland,POL,186.0,80.0,27,male,KS Vive Kielce,1,0,4,11,0,4,0,0,0,0,0,0,0
+184,sr:player:873822,"M'Bengue, Djibril",RB,1992-05-13,Germany,DEU,198.0,101.0,11,male,FC Porto,19,1,17,14,0,17,0,0,0,1,1,1,3
+185,sr:player:888790,"Sliskovic, Ivan",LB,1991-10-23,Croatia,HRV,197.0,98.0,19,male,FC Porto,10,1,13,13,0,13,0,0,0,0,4,0,2
+186,sr:player:1304316,"Alves, Miguel",RW,1996-07-22,Portugal,PRT,189.0,89.0,29,male,FC Porto,6,0,14,14,0,14,0,0,0,3,5,1,0
+187,sr:player:1304336,"Areia, Antonio",RW,1990-06-21,Portugal,PRT,191.0,91.0,25,male,FC Porto,5,0,23,14,0,52,0,0,29,3,1,3,1
+188,sr:player:1304342,"Silva, Rui",CB,1993-04-28,Portugal,PRT,186.0,80.0,14,male,FC Porto,36,0,34,10,0,34,0,0,0,1,1,5,0
+189,sr:player:1304478,"Branquinho, Diogo",RW,1994-07-25,Portugal,PRT,180.0,83.0,23,male,FC Porto,1,0,28,14,0,28,0,0,0,2,0,1,0
+190,sr:player:1304484,"Iturriza, Victor",P,1990-05-22,Portugal,PRT,200.0,105.0,4,male,FC Porto,4,5,62,14,0,62,0,0,0,5,12,5,7
+191,sr:player:1304490,"Salina, Daymaro",P,1987-09-01,Portugal,PRT,200.0,101.0,15,male,FC Porto,4,1,31,14,0,31,1,0,0,2,12,2,3
+192,sr:player:1315610,"Mitrevski, Nikola",G,1985-10-03,North macedonia,MKD,188.0,84.0,16,male,FC Porto,5,0,0,14,230,0,0,102,0,0,0,0,0
+193,sr:player:1386913,"Magalhaes, Fabio Ramos",LB,1988-03-12,Portugal,PRT,194.0,100.0,88,male,FC Porto,52,3,31,14,0,31,0,0,0,2,3,11,1
+194,sr:player:1516049,"Da Silva Borges, Diogo",RB,1998-07-02,Portugal,PRT,198.0,102.0,24,male,FC Porto,13,0,13,14,0,13,0,0,0,1,1,2,0
+195,sr:player:1516055,"Fernandes, Leonel",LW,1998-03-12,Portugal,PRT,186.0,80.0,21,male,FC Porto,1,0,13,13,0,13,0,0,0,0,1,1,0
+196,sr:player:2062431,"Rema Marques, Diogo",G,2004-03-17,Portugal,PRT,190.0,88.0,33,male,FC Porto,0,0,0,1,2,0,0,0,0,0,0,0,0
+197,sr:player:279921,"Dumoulin, Cyril",G,1984-02-02,France,FRA,199.0,102.0,1,male,Nantes,0,0,0,16,168,0,0,63,0,0,0,0,0
+198,sr:player:866026,"Shkurinskiy, Alexander",LB,1995-04-11,Russian federation,RUS,193.0,90.0,9,male,Nantes,18,0,24,7,0,24,0,0,0,2,0,2,0
+199,sr:player:898334,"Lazarov, Kiril",RB,1980-05-10,North macedonia,MKD,195.0,99.0,17,male,Nantes,29,1,49,17,0,57,0,0,8,0,2,6,0
+200,sr:player:898534,"Figueras Trejo, Adrian",P,1988-08-31,Spain,ESP,192.0,90.0,11,male,Nantes,1,1,41,18,0,41,0,0,0,4,2,3,1
+201,sr:player:902566,"Balaguer Romeu, David",RW,1991-08-17,Spain,ESP,185.0,93.0,19,male,Nantes,1,0,38,13,0,41,0,0,3,3,2,3,0
+202,sr:player:902608,"Feliho, Rock",LB,1982-08-13,France,FRA,192.0,100.0,13,male,Nantes,1,2,0,14,0,0,0,0,0,0,10,0,1
+203,sr:player:903654,"Bataille, Mathieu",P,1987-08-01,France,FRA,195.0,95.0,14,male,Nantes,0,1,0,5,0,0,0,0,0,0,2,0,0
+204,sr:player:1280052,"Cavalcanti, Alexandre",LB,1996-12-27,Portugal,PRT,203.0,102.0,8,male,Nantes,16,3,32,13,0,32,1,0,0,1,13,6,3
+205,sr:player:1291266,"Pechmalbec, Dragan",P,1996-01-05,France,FRA,194.0,95.0,10,male,Nantes,7,12,59,19,0,59,1,0,0,4,10,6,7
+206,sr:player:1291486,"Ovnicek, Rok",CB,1995-01-25,Slovenia,SVN,185.0,88.0,4,male,Nantes,27,0,39,16,0,39,0,0,0,5,0,17,0
+207,sr:player:1291592,"Nielsen, Emil",G,1997-03-10,Denmark,DNK,195.0,120.0,1,male,Nantes,3,0,2,19,372,2,0,172,0,2,0,0,1
+208,sr:player:1293758,"Rivera Folch, Valero",LW,1985-02-22,Spain,ESP,189.0,80.0,7,male,Nantes,0,0,48,19,0,95,0,0,47,2,3,2,0
+209,sr:player:1397083,"Milic, Milan",RB,1998-05-14,Serbia,SRB,198.0,87.0,5,male,Nantes,2,0,13,16,0,13,0,0,0,2,0,2,0
+210,sr:player:1560096,"Monar, Theo",P,2001-06-06,France,FRA,198.0,95.0,18,male,Nantes,2,4,18,18,0,18,0,0,0,1,9,4,0
+211,sr:player:1568556,"Colleluori, Andrea",G,2000-05-17,Italy,ITA,182.0,85.0,12,male,Nantes,0,0,0,3,11,0,0,1,0,0,0,0,0
+212,sr:player:1591850,"Damatrin-Bertrand, Baptiste",LW,2000-04-29,France,FRA,177.0,81.0,2,male,Nantes,2,0,24,19,0,24,0,0,0,6,0,3,0
+213,sr:player:1613014,"Minne, Aymeric",CB,1997-04-20,France,FRA,186.0,76.0,15,male,Nantes,17,1,54,15,0,54,0,0,0,6,1,12,1
+214,sr:player:1968339,"Fadhuile, Matteo",LW,2002-05-14,France,FRA,180.0,80.0,22,male,Nantes,1,0,4,1,0,5,0,0,1,1,0,0,0
+215,sr:player:1968345,"de La Breteche, Lucas",CB,2001-11-19,France,FRA,193.0,85.0,28,male,Nantes,4,0,3,11,0,3,0,0,0,0,0,1,0
+216,sr:player:1968443,"Gaillard, Guenole",LB,2001-05-18,France,FRA,190.0,85.0,27,male,Nantes,0,0,0,1,0,0,0,0,0,0,0,0,0
+217,sr:player:1968455,"Briet, Thibaud",LB,1999-12-14,France,FRA,205.0,95.0,3,male,Nantes,25,7,26,16,0,26,0,0,0,5,5,9,1
+218,sr:player:124686,"Cupic, Ivan",RW,1986-03-27,Croatia,HRV,178.0,78.0,27,male,RK PPD Zagreb,56,0,37,13,0,63,0,0,26,0,2,20,1
+219,sr:player:887292,"Leimeter, Csaba",RB,1994-12-15,Hungary,HUN,195.0,91.0,55,male,RK PPD Zagreb,10,0,16,7,0,16,0,0,0,0,4,4,3
+220,sr:player:1280202,"Cavar, Davor",LW,1995-12-07,Croatia,HRV,188.0,84.0,6,male,RK PPD Zagreb,0,0,3,5,0,7,0,0,4,0,0,0,0
+221,sr:player:1280214,"Grahovac, Nikola",P,1998-12-14,Croatia,HRV,201.0,107.0,71,male,RK PPD Zagreb,0,0,16,12,0,16,0,0,0,0,9,1,1
+222,sr:player:1291286,"Ravnic, Valentino",LW,1995-07-20,Croatia,HRV,190.0,82.0,33,male,RK PPD Zagreb,1,0,4,10,0,5,0,0,1,3,4,1,0
+223,sr:player:1291316,"Hrstic, Matej",LB,1996-08-11,Croatia,HRV,197.0,102.0,44,male,RK PPD Zagreb,22,2,44,13,0,44,0,0,0,5,6,8,2
+224,sr:player:1292956,"Ivic, Filip",G,1992-08-30,Croatia,HRV,195.0,95.0,16,male,RK PPD Zagreb,2,0,0,7,116,0,0,43,0,1,0,0,0
+225,sr:player:1298728,"Obranovic, Sandro",CB,1992-10-18,Croatia,HRV,195.0,93.0,47,male,RK PPD Zagreb,17,2,18,11,0,18,1,0,0,2,5,6,3
+226,sr:player:1316026,"Sipic, Marin",P,1996-04-29,Croatia,HRV,190.0,107.0,2,male,RK PPD Zagreb,0,0,3,7,0,3,0,0,0,0,0,1,0
+227,sr:player:1339252,"Vistorop, Filip",CB,1998-04-29,Croatia,HRV,194.0,90.0,4,male,RK PPD Zagreb,8,0,15,12,0,28,0,0,13,1,2,5,0
+228,sr:player:1386361,"Mandic, David",LW,1997-09-14,Croatia,HRV,187.0,87.0,7,male,RK PPD Zagreb,4,0,19,14,0,34,0,0,15,3,6,5,1
+229,sr:player:1580068,"Matanovic, Vlado",RW,1995-05-29,Croatia,HRV,182.0,85.0,24,male,RK PPD Zagreb,3,0,28,12,0,31,1,0,3,2,3,1,1
+230,sr:player:1871412,"Peric, Filip",RW,1996-10-18,Croatia,HRV,180.0,78.0,19,male,RK PPD Zagreb,0,0,4,2,0,7,0,0,3,0,1,0,0
+231,sr:player:2012873,"Srna, Zvonimir",LB,1998-01-18,Croatia,HRV,202.0,100.0,11,male,RK PPD Zagreb,1,0,0,6,0,0,0,0,0,0,2,0,0
+232,sr:player:2069239,"Klarica, Luka Lovre",RB,2001-09-25,Croatia,HRV,198.0,93.0,9,male,RK PPD Zagreb,13,1,20,11,0,21,0,0,1,2,4,9,2
+233,sr:player:902876,"Molina, Carlos",LB,1991-05-31,Spain,ESP,201.0,103.0,18,male,HC Motor Zaporozhye,0,5,1,12,0,1,0,0,0,1,6,0,3
+234,sr:player:1289986,"Viunik, Maksym",G,1996-02-28,Ukraine,UKR,192.0,95.0,28,male,HC Motor Zaporozhye,0,0,0,10,37,0,0,13,0,1,0,0,0
+235,sr:player:1290012,"Burzak, Ivan",P,1998-02-22,Ukraine,UKR,200.0,98.0,27,male,HC Motor Zaporozhye,0,0,3,12,0,3,0,0,0,1,2,2,0
+236,sr:player:1290022,"Kravchenko, Eduard",RW,1996-05-19,Ukraine,UKR,180.0,85.0,19,male,HC Motor Zaporozhye,0,0,6,6,0,6,0,0,0,0,0,0,0
+237,sr:player:1291334,"Denysov, Zakhar",LW,1990-03-01,Ukraine,UKR,188.0,82.0,11,male,HC Motor Zaporozhye,4,0,39,15,0,39,1,0,0,1,7,0,3
+238,sr:player:1291338,"Malasinskas, Aidenas",CB,1986-04-29,Lithuania,LTU,189.0,84.0,7,male,HC Motor Zaporozhye,25,0,51,15,0,67,0,0,16,4,3,22,0
+239,sr:player:1291342,"Kubatko, Iurii",RW,1988-08-28,Ukraine,UKR,184.0,78.0,5,male,HC Motor Zaporozhye,0,0,12,12,0,12,0,0,0,0,0,0,0
+240,sr:player:1291390,"Kozakevych, Artem",RW,1992-10-02,Ukraine,UKR,182.0,68.0,20,male,HC Motor Zaporozhye,0,1,26,12,0,41,0,0,15,1,3,0,1
+241,sr:player:1291406,"Pukhouski, Barys",LB,1987-01-03,Belarus,BLR,188.0,95.0,10,male,HC Motor Zaporozhye,23,1,60,15,0,60,0,0,0,2,2,12,0
+242,sr:player:1291410,"Komok, Gennadiy",G,1987-07-05,Ukraine,UKR,196.0,96.0,55,male,HC Motor Zaporozhye,0,0,0,7,64,0,0,28,0,0,0,0,0
+243,sr:player:1304310,"Bokhan, Viachaslau",P,1996-04-07,Belarus,BLR,206.0,100.0,74,male,HC Motor Zaporozhye,1,3,67,13,0,67,0,0,0,8,8,4,1
+244,sr:player:1304468,"Maroz, Ivan",G,1992-10-05,Belarus,BLR,197.0,95.0,33,male,HC Motor Zaporozhye,1,0,3,14,369,3,0,143,0,7,0,0,0
+245,sr:player:1304494,"Dontsov, Vladyslav",RB,1995-09-22,Ukraine,UKR,200.0,94.0,22,male,HC Motor Zaporozhye,1,0,14,7,0,14,0,0,0,0,0,3,0
+246,sr:player:1340020,"Tiutiunnyk, Dmytro",P,1993-03-07,Ukraine,UKR,198.0,102.0,77,male,HC Motor Zaporozhye,0,0,0,3,0,0,1,0,0,0,3,0,0
+247,sr:player:1340024,"Turchenko, Ihor",CB,2000-12-04,Ukraine,UKR,190.0,80.0,17,male,HC Motor Zaporozhye,0,0,1,8,0,1,0,0,0,0,0,0,0
+248,sr:player:1340086,"Horiha, Dmytro",LB,1997-10-08,Ukraine,UKR,197.0,91.0,24,male,HC Motor Zaporozhye,5,0,43,15,0,43,1,0,0,0,12,6,6
+249,sr:player:1340162,"Kasai, Oleksandr",LW,1997-01-14,Ukraine,UKR,183.0,80.0,31,male,HC Motor Zaporozhye,0,0,3,10,0,3,0,0,0,0,0,2,0
